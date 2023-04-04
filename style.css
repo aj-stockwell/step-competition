@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: url("/simon-berger-twukN12EN7c-unsplash.jpg");
+  background: url("simon-berger-twukN12EN7c-unsplash.jpg");
   background-size: cover;
   color: white;
   display: flex;
